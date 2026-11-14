@@ -21,8 +21,13 @@ A browser-based tool that checks suspicious calls, messages and payment requests
 - **Five languages:** English, Hindi, Tamil, Telugu, Malayalam.
 - **Demo scenarios** to try the flow without real data.
 
-##Screenshots
-<img width="1917" height="865" alt="Screenshot 2026-11-14 231812" src="https://github.com/user-attachments/assets/9c87e771-4149-44bd-8e80-e4d9cdc55615" />
+Screenshots
+<img width="1917" height="862" alt="Screenshot 2026-11-14 231630" src="https://github.com/user-attachments/assets/ae1bedae-353e-41a0-92d4-187a279fcc9e" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-14 231649" src="https://github.com/user-attachments/assets/b2e75b5b-9915-446b-8090-033daa43b26a" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-14 231649 - Copy" src="https://github.com/user-attachments/assets/08ae299b-587c-466c-99ca-2e5ecb2b1ef7" />
+
+
+
 
  
 ## How it works
