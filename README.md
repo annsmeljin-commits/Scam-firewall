@@ -1,6 +1,7 @@
 # Pre-Payment Scam Firewall
 
-VH-S02: Detecting digital payment scams before money is sent.**
+**VH-S02: Detecting digital payment scams before money is sent.**
+
 Built at VECTOR HACKS '26 (Software Track, VH-S02).
 
 A browser-based tool that checks suspicious calls, messages and payment requests *before* you pay. It scores the risk, explains why in plain language, and if the risk is critical it pushes the user toward the India Cyber Crime Helpline (**1930**) and helps them file a complaint.
