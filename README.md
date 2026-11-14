@@ -24,7 +24,8 @@ A browser-based tool that checks suspicious calls, messages and payment requests
 Screenshots
 <img width="1917" height="862" alt="Screenshot 2026-11-14 231630" src="https://github.com/user-attachments/assets/ae1bedae-353e-41a0-92d4-187a279fcc9e" />
 <img width="1917" height="1078" alt="Screenshot 2026-11-14 231649" src="https://github.com/user-attachments/assets/b2e75b5b-9915-446b-8090-033daa43b26a" />
-<img width="1917" height="1078" alt="Screenshot 2026-11-14 231649 - Copy" src="https://github.com/user-attachments/assets/08ae299b-587c-466c-99ca-2e5ecb2b1ef7" />
+<img width="1917" height="870" alt="Screenshot 2026-11-14 231725" src="https://github.com/user-attachments/assets/a3608f8e-359e-4960-995c-d6bfc84c961d" />
+
 
 
 
